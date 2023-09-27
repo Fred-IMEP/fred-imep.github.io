@@ -1,8 +1,7 @@
 h1 {
 
-    font-family:Georgia, 'Times New Roman', Times, serif
-    color: rgb(3, 37, 37);
-    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color :midnightblue
 }
 
 body {
@@ -11,13 +10,13 @@ body {
 }
 
 img {
-    width: 100%;
+    width: 550px; height: 550px;
 }
 
 h2 {
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: whitesmoke;
+    color: midnightblue;
 }
 
 h3 {
@@ -27,5 +26,5 @@ h3 {
 h4 {
 
    font-family: Verdana, Geneva, Tahoma, sans-serif;
-   color: whitesmoke;
+   color: midnightblue;
 }
